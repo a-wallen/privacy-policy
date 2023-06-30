@@ -5,7 +5,7 @@ We take your privacy seriously. To better protect your privacy We provide this p
 
 ## Collection of Routine Information
 
-This application tracks basic information about its users. This information includes, but is not limited to, IP addresses, application details, timestamps and referring pages. None of this information can personally identify specific users to this application. The information is tracked for routine administration and maintenance purposes.
+This application tracks basic information about its users. This information includes, but is not limited to, IP addresses, application details, timestamps, geolocation data, and referring pages. None of this information can personally identify specific users to this application. Features of the app that require these permissions do not store your data for longer than is needed and is solely used for the functionality of the application. For example, if the application requires permissions to geolocation services and that data is stored, it is not analyzed to infer information about the user and sold. The information is tracked for routine administration and maintenance purposes.
 
 
 ## Cookies
